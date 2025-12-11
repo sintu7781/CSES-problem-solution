@@ -1,0 +1,1 @@
+{"name":"Local: distinct_number","url":"c:\\Users\\sintu\\Desktop\\CSES\\distinct_number.cpp","tests":[{"id":1765382758318,"input":"5\n2 3 2 2 3","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\sintu\\Desktop\\CSES\\distinct_number.cpp","group":"local","local":true}
