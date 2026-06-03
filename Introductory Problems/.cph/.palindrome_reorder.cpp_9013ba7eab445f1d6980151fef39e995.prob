@@ -1,0 +1,1 @@
+{"name":"Local: palindrome_reorder","url":"c:\\Users\\sintu\\Desktop\\CSES\\Introductory Problems\\palindrome_reorder.cpp","tests":[{"id":1780251925743,"input":"AAAACACBA","output":"AACABACAA"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\sintu\\Desktop\\CSES\\Introductory Problems\\palindrome_reorder.cpp","group":"local","local":true}
